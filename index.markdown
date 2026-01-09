@@ -4,10 +4,6 @@
 
 layout: home
 ---
----
-layout: home
-title: Accueil
----
 
 # Bonjour ! 
 
