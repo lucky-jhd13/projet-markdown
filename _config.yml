@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+# Configuration du Portfolio - Epitech
+
+# --- IDENTITÉ & SEO  ---
+
+title: Portfolio de Johad Abidat
+email: abidatjohad@gmail.com
+description: >-
+  Étudiant à Epitech. Ce portfolio présente mes projets de développement, 
+  mon parcours et mes compétences techniques.
+  
+baseurl: ""
+url: "" 
+twitter_username: Lucky_JHD
+github_username:  lucky-jhd13
+
+# --- PARAMÈTRES DE BUILD ---
+theme: minima
+plugins:
+  - jekyll-feed
+
+# --- PARAMÈTRES DES COLLECTIONS ---
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
