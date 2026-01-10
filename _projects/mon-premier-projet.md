@@ -7,13 +7,9 @@ image: "/assets/image1.jpg"
 date: 2026-01-07
 ---
 Ceci est la description détaillée du projet.
-[cite_start]J'ai utilisé Jekyll et respecté les contraintes .
+J'ai utilisé Jekyll et ruby .
+Réalisation d'un portfolio standard.
 
----
-layout: page
-title: Mon Premier Projet C
-description: Réalisation d'une librairie standard en C.
----
 
 ## Contexte
 Ce projet a été réalisé en première année à Epitech.
@@ -24,5 +20,5 @@ Ce projet a été réalisé en première année à Epitech.
 * Git
 
 ## Résultat
-J'ai recodé printf avec succès.
-[Lien vers le code](https://github.com/ton-pseudo/projet)
+
+[Lien vers le code du portfolio](https://github.com/lucky-jhd13/portoflio/settings/pages)

@@ -24,3 +24,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+header_pages: [about.md, projects.md, contact.md]
+
