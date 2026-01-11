@@ -21,4 +21,4 @@ Ce projet a été réalisé en première année à Epitech.
 
 ## Résultat
 
-[Lien vers le code du portfolio](https://github.com/lucky-jhd13/portoflio/settings/pages)
+[Lien vers le github du portfolio](https://github.com/lucky-jhd13/portoflio/settings/pages)

@@ -2,6 +2,7 @@
 layout: page
 title: À Propos
 permalink: /about/
+order: 1
 ---
 
 ## Mon Profil
@@ -30,4 +31,4 @@ permalink: /about/
 ## 🏂 Centres d'intérêt
 * Développement informatique
 * Jeux vidéo
-* Foot
+* Foot 

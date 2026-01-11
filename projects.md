@@ -12,3 +12,4 @@ Voici une sélection de mes réalisations académiques et personnelles.
 {% for project in site.projects %}
 - [**{{ project.title }}**]({{ project.url | relative_url }}) : {{ project.description }}
 {% endfor %}
+
