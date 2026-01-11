@@ -15,7 +15,7 @@ order: 1
 
 ## 🎓 Formations
 **EPITECH** (2025 - Présent)
-* 
+
 * Projets intensifs et Piscine C.
 
 

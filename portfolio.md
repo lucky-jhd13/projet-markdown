@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-order: 2
+
 ---
 
 # Mes Réalisations
@@ -13,3 +13,4 @@ lien vers le github du projet :
 https://github.com/lucky-jhd13/portoflio/settings/pages
 
 lien vers le site publié via github pages : 
+https://lucky-jhd13.github.io/portoflio/
