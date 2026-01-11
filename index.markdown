@@ -1,20 +1,31 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-title : Acceuil
+title: Accueil
 ---
 
 
-Bienvenue sur mon portfolio professionnel. 
 
+### Étudiant à Epitech 🎓
 Je m'appel johad et je suis **étudiant à Epitech** passionné par le développement informatique . Ce site a pour but de présenter mon parcours, mes compétences et les projets que j'ai réalisés.
 
-![Photo de profil de Johad](assets/avatar.png)
-*Développeur en formation*
+---
 
-## Ce que vous trouverez ici :
-- Mes Projets: Une sélection de mes réalisations techniques.
-- À Propos : Mon parcours et mon CV.
-- Contact : Comment me joindre.
+![Photo de profil](assets/avatar.png)
+
+> **Bienvenue sur mon portfolio professionnel.**
+> Ce site a pour but de documenter ma progression technique, de présenter mon parcours et les projets que j'ai réalisés.
+
+---
+
+### 🛠 Mes Compétences
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🧭 Navigation Rapide
+
+* **[ Mes Projets](/projects/)** : Une sélection de mes réalisations techniques (Klivio, Epitech...).
+* **[ À Propos](/about/)** : Mon parcours complet et mon CV.
+* **[ Contact](/contact/)** : Comment me joindre.
