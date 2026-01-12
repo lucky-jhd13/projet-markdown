@@ -5,8 +5,8 @@ title: Accueil
 
 
 
-### Étudiant à Epitech 🎓
-Je m'appel johad et je suis **étudiant à Epitech** passionné par le développement informatique . Ce site a pour but de présenter mon parcours, mes compétences et les projets que j'ai réalisés.
+### **Étudiant à Epitech** 👨🏼‍🎓
+Je m'appel johad et je suis passionné par le développement informatique . Ce site a pour but de présenter mon parcours, mes compétences et les projets que j'ai réalisés.
 
 ---
 
