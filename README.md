@@ -1,3 +1,3 @@
 # portoflio
 
-Projet personnel portoflio.
+Ce projet est un projet personnel.
